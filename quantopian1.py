@@ -128,7 +128,7 @@ In [23]:
 aapl_sentiment.head()
 Out[23]:
 symbol	sentiment_signal	sid	timestamp
-asof_date				
+asof_date
 2012-10-15	AAPL	6.0	24	2012-10-16
 2012-10-16	AAPL	2.0	24	2012-10-17
 2012-10-17	AAPL	6.0	24	2012-10-18
